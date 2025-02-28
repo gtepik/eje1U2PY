@@ -1,0 +1,5 @@
+
+
+
+NOMBRE = "GT-EPIK"
+CARRERA = "SISTEMAS"
